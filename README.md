@@ -1,7 +1,7 @@
 # NachOS
 
 
-In this repository, there are experiemnts conducted with NachOS for the course SC2005 Operating Systems, an instructional operating system software developed at UC Berkeley, commonly used to teach Operating Systems.
+In this repository, there are experiements conducted with NachOS for the course SC2005 Operating Systems, an instructional operating system software developed at UC Berkeley, commonly used to teach Operating Systems.
 
 
 ## Exp 2
